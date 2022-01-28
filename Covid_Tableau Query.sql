@@ -1,6 +1,7 @@
 /*
 
 Queries for my Tableau Project
+https://public.tableau.com/app/profile/cailey.flewellin/viz/PortfolioCovid_16434029489030/GlobalCovidCases 
 
 */
 
