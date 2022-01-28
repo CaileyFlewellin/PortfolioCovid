@@ -1,6 +1,8 @@
 # PortfolioProject
 --The Portfolio project is still a work in progress. All reccomendations and feedback are welcome.
 
+Link to my Tableau for the Covid Data
+https://public.tableau.com/app/profile/cailey.flewellin/viz/PortfolioCovid_16434029489030/GlobalCovidCases
 
 
 This Portfolio project is meant to demonstration my capabilities with large datasets, data cleansing, data visualization, SQL Server Management Systems, Tableau, and Github.
